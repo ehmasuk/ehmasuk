@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ehmasuk</h1>
 <h3 align="center">A MERN Developer</h3>
 
-<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif" alt="image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehmasuk&label=Profile%20views&color=0e75b6&style=flat" alt="ehmasuk" /> </p>
 
