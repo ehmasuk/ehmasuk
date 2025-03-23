@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ehmasuk</h1>
-<h3 align="center">A MERN Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehmasuk&label=Profile%20views&color=0e75b6&style=flat" alt="ehmasuk" /> </p>
