@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ehmasuk" alt="ehmasuk" /></a> </p>
 
-- 🔭 I’m currently working on [Escuela de escritura creativa](https://escuela-ray-bolivar-sosa.com/)
-
 - 🌱 I’m currently learning **Docker**
 
 - 👨‍💻 Know about my experiences at [https://ehmasuk.vercel.app](https://ehmasuk.vercel.app)
