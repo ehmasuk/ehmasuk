@@ -4,7 +4,7 @@
 
 - **Frontend-focused MERN Developer** with hands-on experience building production-ready web applications and clean, responsive UIs.
 - Passionate about exploring new technologies, building AI-powered tools, and turning ideas into polished personal projects.
-- Visit my portfolio website: [ehmasuk.vercel.app](https://ehmasuk.vercel.app)
+- Visit my portfolio website: [ehmasuk.me](https://www.ehmasuk.me)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ehmasuk&label=Profile%20views&color=0e75b6&style=flat" alt="ehmasuk" /> </p>
 
